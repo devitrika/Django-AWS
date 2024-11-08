@@ -119,7 +119,7 @@ Pull requests are welcome! If you have any feature suggestions or bug fixes, fee
 ---
 
 ## Preview 👀
-![Snap Up Preview]([https://drive.google.com/file/d/1UUKbK3iA6nijW5rGb7DneflI4NKedBa7/view?usp=sharing])
+[SNAP UP PREVIEW](https://drive.google.com/file/d/1UUKbK3iA6nijW5rGb7DneflI4NKedBa7/view?usp=sharing)
 
 ---
 
