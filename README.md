@@ -20,9 +20,8 @@
 <details>  
 <summary>Frontend</summary>  
 <ul>  
-  <li><a href="https://www.djangoproject.com/">Django</a></li>  
-  <li><a href="https://www.javascript.com/">JavaScript</a></li>  
-  <li><a href="https://getbootstrap.com/">Bootstrap</a></li>  
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>  
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">CSS</a></li>  
 </ul>  
 </details>
 
@@ -120,7 +119,7 @@ Pull requests are welcome! If you have any feature suggestions or bug fixes, fee
 ---
 
 ## Preview 👀
-![Snap Up Preview](https://your-image-link-here.com)
+![Snap Up Preview]([https://your-image-link-here.com](https://drive.google.com/file/d/1UUKbK3iA6nijW5rGb7DneflI4NKedBa7/view?usp=sharing))
 
 ---
 
